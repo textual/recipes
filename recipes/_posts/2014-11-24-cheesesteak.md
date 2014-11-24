@@ -14,9 +14,9 @@ categories: entree
 
 ## Directions
 
-Grill meat with onions. 
-Slather cheese whiz on the roll.
-Turn roll upside down on a serving of steak meat
-Scoop meat up using spatula, flip over and wrap up
-Add salt to taste and grab beverage of choice
+- Grill meat with onions. 
+- Slather cheese whiz on the roll.
+- Turn roll upside down on a serving of steak meat
+- Scoop meat up using spatula, flip over and wrap up
+- Add salt to taste and grab beverage of choice
 
